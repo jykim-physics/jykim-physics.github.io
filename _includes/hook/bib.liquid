@@ -1,0 +1,5 @@
+{% if entry.collaboration != blank %}
+  <div class="author">
+    {{ entry.collaboration | replace: 'Belle-II', 'Belle II' | escape }}
+  </div>
+{% endif %}

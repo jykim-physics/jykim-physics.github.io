@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Yonsei University, Belle II Experiment
+subtitle: >
+  <a href="https://yonsei.ac.kr/sites/en_sc/">Yonsei University</a>,
+  <a href="https://www.belle2.org/">Belle II Experiment</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Seoul, Republic of Korea</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am working on experimental particle physics at Yonsei University
-and a member of the Belle II Collaboration.
+I am working on experimental particle physics at [Yonsei University](https://yonsei.ac.kr/sites/en_sc/)
+and as a member of the [Belle II Collaboration](https://www.belle2.org/).
 
 My research focuses on charm physics, CP violation,
 and searches for doubly charmed baryons.
@@ -37,4 +37,4 @@ I also contribute to data production within Belle II.
 
 - Charm physics and CP violation
 - Doubly charmed baryons
-- Monte Carlo simulation and event generation
+- Data production(Monte Carlo simulation)

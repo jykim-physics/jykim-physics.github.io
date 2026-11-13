@@ -12,7 +12,7 @@ profile:
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -38,3 +38,7 @@ I also contribute to data production within Belle II.
 - Charm physics and CP violation
 - Doubly charmed baryons
 - Data production(Monte Carlo simulation)
+
+## About me
+- Email: [jaeyoung_kim@yonsei.ac.kr](mailto:jaeyoung_kim@yonsei.ac.kr)
+- [INSPIRE-HEP](https://inspirehep.net/authors/2860307)

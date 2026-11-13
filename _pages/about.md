@@ -41,4 +41,5 @@ I also contribute to data production within Belle II.
 
 ## About me
 - Email: [jaeyoung_kim@yonsei.ac.kr](mailto:jaeyoung_kim@yonsei.ac.kr)
-- [INSPIRE-HEP](https://inspirehep.net/authors/2860307)
+- [Publications]({{ "/publications/" | relative_url }})
+- [Curriculum vitae]({{ "/cv/" | relative_url }})

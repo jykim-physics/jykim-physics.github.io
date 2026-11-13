@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Yonsei University · Belle II Experiment"
+subtitle: Yonsei University, Belle II Experiment
 
 profile:
   align: right

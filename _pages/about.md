@@ -35,7 +35,7 @@ and searches for doubly charmed baryons.
 
 I also contribute to data production within Belle II.
 
-## Research interests
+### Research interests
 
 - Charm physics and CP violation
 - Doubly charmed baryons
